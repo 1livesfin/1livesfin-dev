@@ -12,4 +12,4 @@
 - Command-line database management
 
 ## 📈 GitHub Stats
-![Ilisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilisha-dev&show_icons=true&theme=radical)
+![Ilisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=1livesfin-dev&show_icons=true&theme=radical)
