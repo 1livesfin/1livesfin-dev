@@ -1,4 +1,4 @@
-# 1livesfin-dev
+# 1livesfin
 # Hi there 👋 I'm Ilisha!
 
 💻 I'm a web developer passionate about PHP, MySQL, and Flutter  
