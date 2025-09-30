@@ -12,4 +12,9 @@
 - Command-line database management
 
 ## 📈 GitHub Stats
-![Ilisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=1livesfin-dev&show_icons=true&theme=radical)
+![Ilisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=1livesfin&show_icons=true&theme=radical)
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+![Ilisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1livesfin&show_icons=true&theme=tokyonight)
