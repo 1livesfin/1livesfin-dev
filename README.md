@@ -19,4 +19,4 @@
 
 ![Ilisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1livesfin&show_icons=true&theme=tokyonight)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ilisha-dev)](https://github.com/ryo-ma/github-profile-trophy)
+
